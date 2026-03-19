@@ -2,7 +2,7 @@
 
 A collection of production-grade automation workflows built on self-hosted n8n. Each workflow is designed to eliminate repetitive manual tasks by combining web scraping, AI model routing, and smart data pipelines.
 
-These workflows were built and tested in real operational environments — not tutorials or demos.
+These workflows were built and tested in real operational environments.
 
 ---
 
