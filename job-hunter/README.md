@@ -1,4 +1,5 @@
 # Job Hunter — AI-Powered Job Matching Pipeline
+![Job Hunter Workflow](./Job_Hunter_Workflow.jpg)
 
 An end-to-end automation workflow that scrapes job listings, evaluates each one against my CV using an AI agent, scores the match, and logs the best opportunities to a tracker — automatically, with no manual effort.
 
